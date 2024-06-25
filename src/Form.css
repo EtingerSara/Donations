@@ -1,0 +1,20 @@
+.form{
+    size: 10px;
+    direction: rtl;
+    text-align: center;
+    margin-left: 39%;
+    margin-right: 30%;
+    margin-top: 5%;
+    margin: 9% 9% 2% 61.5%;
+
+    border: 4px solid black;
+    border-radius: 7px;
+    height: 30vh;
+    width: 19vw; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+input{
+    height: 5vh;
+    width: 17vw;
+    margin: 5px;
+}
